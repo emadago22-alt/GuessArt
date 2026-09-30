@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy
+pandas
+Pillow
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning
+tensorflow
+keras
+
+# Vision Transformer
+vit-keras
+
+# Explainability / image processing
+opencv-python
+
+# Experiment tracking
+wandb
+
+# Web application
+streamlit
+
+# Optional: public tunnelling used in the original notebook
+pyngrok
