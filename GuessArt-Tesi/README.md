@@ -6,21 +6,6 @@ The project uses three computer vision architectures, ResNet50V2, DenseNet121, a
 
 Reproducibility note: the original notebook was developed in a Kaggle environment and contains /kaggle/input and /kaggle/working paths. For this reason, the notebook can be viewed directly on GitHub, but fully reproducing the training requires recreating the dataset/environment and updating the local or Kaggle paths.
 
-Repository Structure
-
-GuessArt-Tesi/
-├── README.md
-├── guessart-tesi.ipynb
-├── app.py
-├── requirements.txt
-├── .gitignore
-├── data/
-│   └── README.md
-├── models/
-│   └── README.md
-└── outputs/
-    └── README.md
-
 Project Contents
 
 The notebook contains the main stages of the project:
